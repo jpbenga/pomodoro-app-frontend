@@ -21,8 +21,8 @@ Les diagrammes techniques et la documentation détaillée du projet sont disponi
 
 ## Diagrammes
 
-- [Modèle Conceptuel de Données (MCD)](mcd.puml)
-- [Diagramme de Classes UML](class-diagram.puml)
+- [Modèle Conceptuel de Données (MCD)](docs/mcd.PNG)
+- [Diagramme de Classes UML](docs/uml.PNG)
 
 Pour visualiser ces diagrammes, vous pouvez utiliser :
 - L'extension PlantUML pour VSCode
@@ -36,6 +36,26 @@ Pour modifier un diagramme :
 2. Modifiez le contenu selon vos besoins
 3. Commitez et pushez vos changements
 4. La visualisation sera automatiquement mise à jour dans les outils compatibles
+
+## Wireframes
+
+Les wireframes de l'application Pomodoro sont disponibles dans le dossier [wireframes](wireframes/).
+
+### Visualisation
+- [Wireframe principal (PNG)](docs/wireframes/pomodorowireframe.png)
+- [Version interactive sur Excalidraw](https://excalidraw.com/#json=o2KUfBnZDUJemf9yxZNjh,Oof_8vbA-xXK6gWxnW4tag)
+   - Ce lien vous permet de voir et modifier le wireframe en temps réel.
+   - Idéal pour la collaboration et les itérations rapides.
+
+### Modification
+Le fichier source Excalidraw est également disponible pour modification :
+[Fichier source Excalidraw](docs/wireframes/pomodorowireframe.excalidraw)
+
+Pour modifier le wireframe :
+1. Téléchargez le fichier .excalidraw
+2. Visitez [Excalidraw.com](https://excalidraw.com/)
+3. Cliquez sur 'Open' et sélectionnez le fichier téléchargé
+4. Après modification, exportez et mettez à jour les fichiers dans ce repository
 
 ## Installation et démarrage
 
